@@ -17,8 +17,7 @@ a {
 .kotak {
   margin: 0 auto;
   padding: 20px 0 10px 0;
-  width: 50%;
-  color: #FFD88C;
+  color: #ffd88c;
   border: 1px solid;
   box-shadow: 0 3px 5px #fff;
   border-radius: 10px;
@@ -33,7 +32,7 @@ a {
 .kotak h1 {
   font-size: 36px;
   text-transform: uppercase;
-  color: #FFD88C;
+  color: #ffd88c;
   padding: 10px 0;
   margin-bottom: 10px;
 }
@@ -50,17 +49,17 @@ a {
   margin: 10px 0;
   padding: 10px;
   border: 2px solid;
-  color: #FFD88C;
+  color: #ffd88c;
   border-radius: 10px;
 }
-.menu ul li:hover{
-  color: #FFC300;
+.menu ul li:hover {
+  color: #ffc300;
 }
 .menu ul li a {
-  color: #FFD88C;
+  color: #ffd88c;
 }
 .menu ul li a:hover {
-  color: #FFC300;
+  color: #ffc300;
 }
 /*.media {
   margin: 10px 0;
@@ -89,5 +88,5 @@ a {
 }
 .media2 i {
   padding: 5px;
-  color: #FFD88C;
+  color: #ffd88c;
 }
